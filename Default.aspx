@@ -90,13 +90,7 @@
         
         Note: Use this ID for domestic bookings only, however you can also search international fares in this ID. It is advisable to cross check internatonal fares with our back office team before committing anything to passengers.
         
-        Regards,
-        
-        Darshan K R
-        IT Department
-        Weizmann Forex Ltd
-        Corporate Office
-        Bangalore.        
+             
     </asp:TextBox>
     
     <br />
